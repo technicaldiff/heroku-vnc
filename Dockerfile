@@ -20,7 +20,7 @@ RUN set -ex; \
         x11vnc \
 	xvfb \
         xfce4 \
-	default-jdk
+	default-jdk \
         supervisor \
         curl \
         git \
